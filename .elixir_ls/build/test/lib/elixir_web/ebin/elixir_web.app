@@ -1,9 +1,0 @@
-{application,elixir_web,
-             [{applications,[kernel,stdlib,elixir,logger,cowboy,plug,poison,
-                             telemetry,plug_cowboy]},
-              {description,"elixir_web"},
-              {modules,['Elixir.ElixirWeb','Elixir.ElixirWeb.Application',
-                        'Elixir.ElixirWeb.Router']},
-              {registered,[]},
-              {vsn,"0.1.0"},
-              {mod,{'Elixir.ElixirWeb.Application',[]}}]}.
